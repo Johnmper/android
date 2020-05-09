@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote  name="johnmper" fetch="https://github.com/Johnmper/" />
-  <project path="hardware/odroid_extra/gpio" name="android_hardware_odroid_extra_gpio" remote="johnmper" revision="master"/>
+  <!--project path="hardware/odroid_extra/gpio" name="android_hardware_odroid_extra_gpio" remote="johnmper" revision="master"/-->
 </manifest>
