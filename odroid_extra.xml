@@ -2,5 +2,5 @@
 <manifest>
   <remote  name="johnmper" fetch="https://github.com/Johnmper/" />
   <project path="hardware/odroid_extra/gpio" name="android_hardware_odroid_extra_gpio" remote="johnmper" revision="master"/>
-  <project path="packages/apps/odroid_test" name="android_apps_odroid_test" remote="johnmper" revision="master"/>
+  <project path="packages/apps/OdroidTest" name="android_apps_odroid_test" remote="johnmper" revision="master"/>
 </manifest>
