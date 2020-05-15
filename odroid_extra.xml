@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote  name="johnmper" fetch="https://github.com/Johnmper/"/>
-  <project path="vendor/johnmper/odroid_extra" name="android_vendor_odroid_extra" remote="johnmper" revision="master"/>
+  <remote  name="origin" fetch="https://github.com/Johnmper/"/>
+  <project path="vendor/johnmper" name="android_vendor_odroid_extra" remote="origin" revision="master"/>
 </manifest>
